@@ -1,6 +1,8 @@
 # vue3-poc-js
+## Preview
 
-This template should help get you started developing with Vue 3 in Vite.
+![Vite App](https://user-images.githubusercontent.com/58710976/193301592-27b4b394-0519-4da8-a8bf-c14730029594.gif)
+
 
 ## Recommended IDE Setup
 
